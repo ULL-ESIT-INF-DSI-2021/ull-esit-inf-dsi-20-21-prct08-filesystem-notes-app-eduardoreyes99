@@ -1,4 +1,4 @@
-# Práctica 5. Objetos, clases e interfaces
+# Práctica 8. Aplicación de procesamiento de notas de textoTarea
 
 ### Clase Nota
 
